@@ -1,16 +1,14 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/yondermarin/yondermarin/main/banner_yondernft.png" alt="Banner YonderNFT" style="width:100%;"/>
 
-<!--
-**yondermarin/yondermarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾 YonderNFT
+**Frontend Developer & Web3 Enthusiast** 🚀 | Building clean UI with smart logic ⚡
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚛️ React • JavaScript • Git • Vercel • Blockchain  
+- 🛠️ Actualmente trabajando en proyectos épicos.  
+- 🌌 Explorando nuevas fronteras en tecnología y Web3.
+
+---
+
+[🔗 Vercel App](https://todo-tarea-oxxbd55kn-yondermarins-projects.vercel.app/) | [💻 GitHub](https://github.com/yondermarin) | [🔗 LinkedIn](https://www.linkedin.com/in/yonder-marin-8b2028332/)
